@@ -13,4 +13,3 @@ Use the first half of the season's data to predict the second half of the season
 
 # Data Sources
 * https://sabr.org/sabermetrics/data
-* MLB API 
